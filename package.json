@@ -1,0 +1,13 @@
+{
+  "name": "node.js-practical-lab-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "test-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "sunnydanu",
+  "license": "ISC"
+}
