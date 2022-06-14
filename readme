@@ -7,3 +7,4 @@
 7: node show-hour.js
 8: node sum-of-integers.js
 9: node processing-values.js
+10:  node .\writing-on-txt.js or node .\writing-on-txt.js  myFile.txt someContent
